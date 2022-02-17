@@ -5,5 +5,7 @@ description:
 ---
 
 # Hello
+hogehoge
 
-[STP-model](stp.md)
+# How to implement equations in neuroscience as a simulation program 
+[Short-Term Plasticity](stp.md)
